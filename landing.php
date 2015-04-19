@@ -2,7 +2,7 @@
 
 <table><tr><td>Welcome to a subdomain of CommonAccord for the model patient consent project of the Regulatory and Ethics Working Group of the Global Alliance for Genomics and Health. 
 <br> Here: <a href="index.php?action=list&file=">Documents</a>:<br><br>
-This is a subset of the docs from <a href="www.commonaccord.org">commonaccord.org</a>.<br>
+This is a subset of the docs from <a href="http://www.commonaccord.org">commonaccord.org</a>.<br>
 
 </td><td>
 
