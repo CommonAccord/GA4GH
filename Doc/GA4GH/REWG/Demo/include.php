@@ -9,19 +9,19 @@
 <ul><li>Common Resources<ul>
 <li><a href="/index.php?action=source&file=./GA4GH/REWG/Consent/All/Form/Outline_V01">Outline_V01</a>: The taxonomy of the template Consent Form</li>
    <li>Forms  (Note: <font color="red">ONLY the first of these, the "US" English version, is text from the GA4GH.  The French and German were done by plopping the English text into Google translate.</font>)<ul>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Consent/In/EN/Form/Form_V02">Form_US</a>: Library for English-language Forms</li>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Consent/In/FR/Form/Form_V01">Form_FR</a>: Library for French-based Forms</li>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Consent/In/DE/Form/Form_V01">Form_DE</a>: Library for German-based Forms</li></ul> The text is also available in the wiki at <a href="http://response.commonaccord.org/GA4GH/REWG/Consent/">response.commonaccord.org</a>.</ul>
+<li><a href="/index.php?action=source&file=./GA4GH/REWG/Consent/In/EN/Form/Form_V02">Form_US</a>: Library for English-language Forms</li>
+<li><a href="/index.php?action=source&file=./GA4GH/REWG/Consent/In/FR/Form/Form_V01">Form_FR</a>: Library for French-based Forms</li>
+<li><a href="/index.php?action=source&file=./GA4GH/REWG/Consent/In/DE/Form/Form_V01">Form_DE</a>: Library for German-based Forms</li></ul> The text is also available in the wiki at <a href="http://response.commonaccord.org/GA4GH/REWG/Consent/">response.commonaccord.org</a>.</ul>
 <li>The Study<ul>
-<li><a href="http://commonaccord.org/index.php?action=source&file=GA4GH/REWG/Demo/Study_N01">The Study Framework</a></li>
+<li><a href="/index.php?action=source&file=GA4GH/REWG/Demo/Study_N01">The Study Framework</a></li>
 
 <li>Consents<ul>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Demo/Consent_To_Study">Consent_to_Study</a>: A master Consent Form for the Study </li><ul>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Demo/Consent_To_Study_US">Consent_to_Study_US</a>: A US-based instantiation of the specific Consent Form, and its <a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Demo/Roberta_Robinson_US">signed version</a></li>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Demo/Consent_To_Study_FR">Consent_to_Study_FR</a>: A French instantiation of the specific Consent Form, and its <a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Demo/Quentin_Quade_FR">signed version</a></li><ul>
-   <li>The French version, <a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Demo/Quentin_Quade_FR_Modified">presented with the signature section first.</a></li></ul>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Demo/Consent_To_Study_DE">Consent_to_Study_DE</a>: A German instantiation of the specific Consent Form, and its <a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Demo/Geraldine_Graber_DE">signed version</a></li></ul></ul>
-<li><a href="http://commonaccord.org/index.php?action=source&file=./GA4GH/REWG/Demo/Study_Signatures">A Listing of the Signatures from Each Donor</a></li></li>
+<li><a href="/index.php?action=source&file=./GA4GH/REWG/Demo/Consent_To_Study">Consent_to_Study</a>: A master Consent Form for the Study </li><ul>
+<li><a href="/index.php?action=source&file=./GA4GH/REWG/Demo/Consent_To_Study_US">Consent_to_Study_US</a>: A US-based instantiation of the specific Consent Form, and its <a href="/index.php?action=source&file=./GA4GH/REWG/Demo/Roberta_Robinson_US">signed version</a></li>
+<li><a href="/index.php?action=source&file=./GA4GH/REWG/Demo/Consent_To_Study_FR">Consent_to_Study_FR</a>: A French instantiation of the specific Consent Form, and its <a href="/index.php?action=source&file=./GA4GH/REWG/Demo/Quentin_Quade_FR">signed version</a></li><ul>
+   <li>The French version, <a href="/index.php?action=source&file=./GA4GH/REWG/Demo/Quentin_Quade_FR_Modified">presented with the signature section first.</a></li></ul>
+<li><a href="/index.php?action=source&file=./GA4GH/REWG/Demo/Consent_To_Study_DE">Consent_to_Study_DE</a>: A German instantiation of the specific Consent Form, and its <a href="/index.php?action=source&file=./GA4GH/REWG/Demo/Geraldine_Graber_DE">signed version</a></li></ul></ul>
+<li><a href="/index.php?action=source&file=./GA4GH/REWG/Demo/Study_Signatures">A Listing of the Signatures from Each Donor</a></li></li>
    
 </ul>
 </div>
