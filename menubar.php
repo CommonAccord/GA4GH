@@ -6,7 +6,7 @@
         <li class="active"><a href="mailto:contact@commonaccord.org">Contact</a></li>
   
   		<li class="inactive"><a href="#">Terms of Service</a> </li>
-  	<li class="inactive"><a href="#">Privacy Policy</a></li>
+   <li class="inactive"><font color="red">Unofficial! Not to be relied on! Informational only.</font></li>
   	<li><a href="/index.php?action=source&file=./CreativeCommons/License/4_0/BY">Copyright</a></p></li>
   		<li class="inactive"><a href="#"> CommonAccord 2014</a></li>
       </ul>
