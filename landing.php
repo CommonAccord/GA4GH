@@ -1,6 +1,6 @@
      <p align="center"><img src="assets/cmacc-trans.png" style="width:35%" /></p>
 
-<table><tr><td>Welcome to a subdomain of CommonAccord for the model patient consent project of the Regulatory and Ethics Working Group of the Global Alliance for Genomics and Health. <br><br>
+	<table><tr><td>Welcome to a subdomain of CommonAccord for our take on the model patient consent project of the Regulatory and Ethics Working Group of the Global Alliance for Genomics and Health. <font color="red">Unofficial, not to be relied upon, informational only.</font><br><br>
 <ul><li><a href="
 index.php?action=list&file=./Demo/">Demonstration</a><br><br><li><a href="index.php?action=list&file=">Documents</a><br><br><br></ul>
 This is a subset of the docs from <a href="http://www.commonaccord.org">commonaccord.org</a>.<br>
