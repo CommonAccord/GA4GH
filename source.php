@@ -10,33 +10,26 @@ include("header.php");
 
 //This displays the path, current file name, and provides the edit and show options //
 
-echo "
-<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/>Org$rootdir[dirname]</a>/<b>$filenameX</b>
-&emsp; &emsp; &emsp; &emsp;  
-<a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Print</a>
-  &emsp;  &emsp;  &emsp;  
-<a href=https://github.com/CommonAccord/GA4GH/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
+echo "<h4>
 
+<a href=$_SERVER[PHP_SELF]?action=list&file=$rootdir[dirname]/><img src='assets/arrowup.png' height=25>$rootdir[dirname]</a>/<b>$filenameX</b><br><center>
+<a href=$_SERVER[PHP_SELF]?action=doc&file=$rootdir[dirname]/$filenameX><b>Render the Document</b></a>
+  &emsp; 
+
+ <a href=$_SERVER[PHP_SELF]?action=opens&file=$rootdir[dirname]/$filenameX>Opens</a>
+  &emsp; 
+
+<a href=https://github.com/$GitHubRepo/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
+</center></h5>
 ";
 
 
 ?>
 
-<div id="tabs">
-  <ul>
-    <li><a href="#tab-render">Document</a></li>
-    <li><a href="#tab-source">Source</a></li>
-    <li><a href="#tab-edit">Edit</a></li>
-    </ul>
-
-<div id="tab-render">
 <?php
-	echo `perl parser2.pl $path/$dir`;
-	#system("perl parser2.pl $path/$dir  > $path/Output999.html");
-	#echo file_get_contents("Output999.html", FILE_USE_INCLUDE_PATH);
-
-
-
+  echo "
+<div id='tabs'><ul><li>
+<a href='#tab-source'>Source</a></li><li><a href='#tab-edit'>Edit</a></li></ul><div id='tab-render'>" ;
 ?>
 </div>
 
