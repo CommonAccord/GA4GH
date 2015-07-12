@@ -11,7 +11,14 @@ Here, as an example, is a <a href="index.php?action=list&file=/Demo/">Patient Co
 In English, French and German.
 <br><br>
 <br> Here: <a href="index.php?action=list&file=/">Documents</a>:<br><br>
-	See also <ul><li><a href="http://www.commonaccord.org">commonaccord.org</a><li><a href="http://www.fr.commonaccord.org">fr.commonaccord.org</a><li><a href="http://www.ga4gh.commonaccord.org">ga4gh.commonaccord.org</a></ol>.<br>
+
+<br><span title="Top Level Folder"><a href="index.php?action=list&file=/">Folder with all the documents.</a></span><br>
+<br>
+<span title="Other Sites">Other sites: <ul><li>
+<a href="http://source.commonaccord.org">compliance.commonaccord.org</a> (FCPA)<li>
+   <a href="http://ga4gh.commonaccord.org">source.commonaccord.org</a> (Master Service Agreement)<li>
+   <a href="http://fr.commonaccord.org">fr.commonaccord.org</a> (French)<li>
+   <a href="http://commonaccord.org">commonaccord.org</a> (General)</ul></span>
 
 </td><td>
 
