@@ -1,6 +1,9 @@
      <p align="center"><img src="assets/cmacc-trans.png" style="width:35%" /></p>
 
 <table><tr><td>Welcome to a subdomain of CommonAccord.
+
+
+	<br> Here: <a href="index.php?action=list&file=/Demo/">The Patient Consent Demo</a> showing how to make machine readable the model consent form of the REWG of the Global Alliance for Genomics and Health. In English, French and German.<br><br>
 <br> Here: <a href="index.php?action=list&file=/">Documents</a>:<br><br>
 	See also <ul><li><a href="http://www.commonaccord.org">commonaccord.org</a><li><a href="http://www.fr.commonaccord.org">fr.commonaccord.org</a><li><a href="http://www.ga4gh.commonaccord.org">ga4gh.commonaccord.org</a></ol>.<br>
 
