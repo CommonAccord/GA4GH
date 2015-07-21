@@ -1,9 +1,23 @@
-<body style="margin:40;padding:0">
+<body style="margin:20;padding:0">
+<?php
+/*require('./vendor/autoload.php'); */
+ini_set("allow_url_include", true);
+
+
+//This displays the path, current file name, and provides the edit and show options //
+
+$lib_path = LIB_PATH;
+
+include("$lib_path/view-tabs.php");
+
+echo "<hr><br>";
+?>
+
+
 <?php
 
-echo "<a href=index.php?action=source&file=" .$dir.">Source</a><br><br>";
-
-$document = `perl parser-print.pl $path/$dir`;
+$lib_path = LIB_PATH;
+$document = `perl $lib_path/parser.pl $path/$dir`;
 
 $minDocLength = 1;
 
@@ -18,6 +32,7 @@ $document=str_replace("}","}</font>",$document);
 $document=str_replace("(Curly-)","{",$document);
 
 $document=str_replace("(-Curly)","}",$document);
+
  
   echo $document;}
  else {

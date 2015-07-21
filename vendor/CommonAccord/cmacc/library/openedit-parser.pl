@@ -81,15 +81,13 @@ sub expand_fields  {
 
 
 my $output  = parse($ARGV[0], "Model.Root");
-print $output;
+
+# print $output;
 
 # XXX FIX ME XXX This is horrible - but  I'm just dead tired  :(
-print "<br><br><hr><br><br>";
-print "<div id='missing'><p><h3 class='subtitle2'>Missing parameters:</h3>";
 my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 @arr = grep { ! $seen{$_}++ } @arr;
-print "$_=<br>" foreach @arr;
-print "</p></div>";
+print "$_=\n" foreach @arr;
 
 
 #clean up the temporary files (remote fetching)
