@@ -2,7 +2,7 @@
 /.listings { display: none;
 }
 </style>
-<img src="./assets/cmacc-consent.png"><br>
+<img src="./visual/cmacc-consent.png"><br>
 
 <div class="row">
    This example illustrates the use of CommonAccord for the creation of Consent Forms, which can inherit different clauses according to the language, jurisdiction, situation of the patient, nature of the study, etc. In the pages, switch between the tabs (Source, Render, or Edit) to see how it works:
